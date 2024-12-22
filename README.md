@@ -1,10 +1,10 @@
 Path Finder
 
-Overview
+**Overview**
 
 This is a Python-based terminal application that visualizes a pathfinding algorithm on a maze. The maze is represented as a grid, where the goal is to navigate from the start point (O) to the end point (X) while avoiding obstacles (#).
 
-Features
+**Features**
 
 Visual representation of the maze and the pathfinding process.
 
@@ -12,7 +12,7 @@ Utilizes Breadth-First Search (BFS) algorithm to find the shortest path.
 
 Dynamic updates of the pathfinding process within the terminal.
 
-Requirements
+**Requirements**
 
 Python 3.x
 
