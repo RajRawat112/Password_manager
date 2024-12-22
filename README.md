@@ -57,15 +57,7 @@ Neighbors are checked in four directions (up, down, left, right), avoiding walls
 The path is visualized dynamically on the terminal using the curses library.
 
 Example Maze
-# O # # # # # # #
-#               #
-#   # #     # # #
-#   #       #   #
-#   #   #   #   #
-#   #   #   #   #
-#   #   #   # # #
-#               #
-# # # # # # # X #
+![image](https://github.com/user-attachments/assets/e49f830d-1668-452f-a6c8-5eb6a1485f42)
 
 Contributions
 
